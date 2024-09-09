@@ -1,0 +1,6 @@
+AI-Girlfriend-Bot/
+│
+├── .env                    # Environment variables file (API keys)
+├── bot.py                  # Main Python script for the bot
+├── requirements.txt         # List of dependencies
+└── README.md                # Project documentation (optional)
